@@ -175,10 +175,12 @@ Data quality was strong and required no major corrections.
 ---
 
 ## Files Included
-- GAS_PRICE_WATCH_JULY_2024_WORK.xlsx — cleaned & analyzed version
-- GAS.pdf — final report slide
-- README.md — full project documentation
--Nigerian-LPG-Price-Report-July-2024-RAW.xlsx — raw dataset
+- [raw dataset](Nigerian-LPG-Price-Report-July-2024-RAW.xlsx)
+- [cleaned & analyzed](Nigerian-LPG-Price-Report-July-2024-Work.xlsx)
+- [final report slide in PDF](Nigerian-LPG-Price-Report-July-2024.pdf)
+- [final report slide in power point](Nigerian-LPG-Price-Report-July-2024.pptx)
+- [full project documentation](README.md)
+
 
 ---
 
